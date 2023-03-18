@@ -38,7 +38,7 @@ steph.tidwell.civ@gmail.com
 
 StephTidwell
 
-## App
+## Deployed App
 https://polar-chamber-45635.herokuapp.com/
 
 ## License
