@@ -13,7 +13,7 @@ This application will use an Express.js backend and will save and retrieve note 
 - [Credits](#credits)
 - [Email](#email)
 - [IGithub](#github)
-- [Deployed App](#app)
+- [Deployed App](#deployed app)
 - [License](#license)
 
 ## Installation
