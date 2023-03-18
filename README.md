@@ -13,7 +13,7 @@ This application will use an Express.js backend and will save and retrieve note 
 - [Credits](#credits)
 - [Email](#email)
 - [IGithub](#github)
-- [Deployed App](#deployed app)
+- [Deployed App](#app)
 - [License](#license)
 
 ## Installation
@@ -38,7 +38,7 @@ steph.tidwell.civ@gmail.com
 
 StephTidwell
 
-## Deployed App
+## App
 https://polar-chamber-45635.herokuapp.com/
 
 ## License
